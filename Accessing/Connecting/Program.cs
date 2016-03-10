@@ -11,7 +11,7 @@ namespace Connecting
     {
         static void DisplayResult(SqlDataReader reader)
         {
-            Console.OutputEncoding = new UTF8Encoding();
+            //Console.OutputEncoding = new UTF8Encoding();
             Console.WriteLine("Output Encoding: " +
             Console.OutputEncoding);
             for (int i = 0; i < reader.FieldCount; i++)
