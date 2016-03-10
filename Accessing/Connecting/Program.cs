@@ -15,7 +15,7 @@ namespace Connecting
             Console.WriteLine("Output Encoding: " +
             Console.OutputEncoding);
             for (int i = 0; i < reader.FieldCount; i++)
-                Console.Write(reader.GetName(i) + " ");
+                //Console.Write(reader.GetName(i) + " ");
             Console.WriteLine();
             while (reader.Read())
             {
