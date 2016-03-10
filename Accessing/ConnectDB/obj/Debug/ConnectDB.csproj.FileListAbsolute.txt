@@ -1,0 +1,6 @@
+c:\users\zvule_000\documents\visual studio 2015\Projects\Accessing\ConnectDB\bin\Debug\ConnectDB.exe.config
+c:\users\zvule_000\documents\visual studio 2015\Projects\Accessing\ConnectDB\bin\Debug\ConnectDB.exe
+c:\users\zvule_000\documents\visual studio 2015\Projects\Accessing\ConnectDB\bin\Debug\ConnectDB.pdb
+c:\users\zvule_000\documents\visual studio 2015\Projects\Accessing\ConnectDB\obj\Debug\ConnectDB.csprojResolveAssemblyReference.cache
+c:\users\zvule_000\documents\visual studio 2015\Projects\Accessing\ConnectDB\obj\Debug\ConnectDB.exe
+c:\users\zvule_000\documents\visual studio 2015\Projects\Accessing\ConnectDB\obj\Debug\ConnectDB.pdb

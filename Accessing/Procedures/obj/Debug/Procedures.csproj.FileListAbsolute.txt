@@ -1,0 +1,6 @@
+c:\users\zvule_000\documents\visual studio 2015\Projects\Accessing\Procedures\bin\Debug\Procedures.exe.config
+c:\users\zvule_000\documents\visual studio 2015\Projects\Accessing\Procedures\obj\Debug\Procedures.csprojResolveAssemblyReference.cache
+c:\users\zvule_000\documents\visual studio 2015\Projects\Accessing\Procedures\bin\Debug\Procedures.exe
+c:\users\zvule_000\documents\visual studio 2015\Projects\Accessing\Procedures\bin\Debug\Procedures.pdb
+c:\users\zvule_000\documents\visual studio 2015\Projects\Accessing\Procedures\obj\Debug\Procedures.exe
+c:\users\zvule_000\documents\visual studio 2015\Projects\Accessing\Procedures\obj\Debug\Procedures.pdb
