@@ -1,6 +1,0 @@
-c:\users\zvule_000\documents\visual studio 2015\Projects\Accessing\Blobs\bin\Debug\Blobs.exe.config
-c:\users\zvule_000\documents\visual studio 2015\Projects\Accessing\Blobs\obj\Debug\Blobs.csprojResolveAssemblyReference.cache
-c:\users\zvule_000\documents\visual studio 2015\Projects\Accessing\Blobs\bin\Debug\Blobs.exe
-c:\users\zvule_000\documents\visual studio 2015\Projects\Accessing\Blobs\bin\Debug\Blobs.pdb
-c:\users\zvule_000\documents\visual studio 2015\Projects\Accessing\Blobs\obj\Debug\Blobs.exe
-c:\users\zvule_000\documents\visual studio 2015\Projects\Accessing\Blobs\obj\Debug\Blobs.pdb

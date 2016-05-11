@@ -1,3 +1,0 @@
-c:\users\zvule_000\documents\visual studio 2015\Projects\Accessing\Connecting\bin\Debug\Connecting.exe.config
-c:\users\zvule_000\documents\visual studio 2015\Projects\Accessing\Connecting\obj\Debug\Connecting.exe
-c:\users\zvule_000\documents\visual studio 2015\Projects\Accessing\Connecting\obj\Debug\Connecting.pdb
