@@ -1,0 +1,13 @@
+C:\Users\zvule_000\Documents\REPOGitKraken\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\bin\Debug\DBSCAN_GUI.exe.manifest
+C:\Users\zvule_000\Documents\REPOGitKraken\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\bin\Debug\DBSCAN_GUI.application
+C:\Users\zvule_000\Documents\REPOGitKraken\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\bin\Debug\DBSCAN_GUI.exe
+C:\Users\zvule_000\Documents\REPOGitKraken\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\bin\Debug\DBSCAN_GUI.pdb
+C:\Users\zvule_000\Documents\REPOGitKraken\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\obj\x86\Debug\DBSCAN_GUI.csprojResolveAssemblyReference.cache
+C:\Users\zvule_000\Documents\REPOGitKraken\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\obj\x86\Debug\DBSCAN_GUI.AboutBox1.resources
+C:\Users\zvule_000\Documents\REPOGitKraken\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\obj\x86\Debug\DBSCAN_GUI.Form1.resources
+C:\Users\zvule_000\Documents\REPOGitKraken\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\obj\x86\Debug\DBSCAN_GUI.Properties.Resources.resources
+C:\Users\zvule_000\Documents\REPOGitKraken\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\obj\x86\Debug\DBSCAN_GUI.csproj.GenerateResource.Cache
+C:\Users\zvule_000\Documents\REPOGitKraken\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\obj\x86\Debug\DBSCAN_GUI.exe.manifest
+C:\Users\zvule_000\Documents\REPOGitKraken\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\obj\x86\Debug\DBSCAN_GUI.application
+C:\Users\zvule_000\Documents\REPOGitKraken\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\obj\x86\Debug\DBSCAN_GUI.exe
+C:\Users\zvule_000\Documents\REPOGitKraken\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\obj\x86\Debug\DBSCAN_GUI.pdb
