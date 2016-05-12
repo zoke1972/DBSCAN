@@ -1,0 +1,12 @@
+D:\REPO_Git_Candy\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\bin\Release\DBSCAN_GUI.exe.manifest
+D:\REPO_Git_Candy\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\bin\Release\DBSCAN_GUI.application
+D:\REPO_Git_Candy\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\bin\Release\DBSCAN_GUI.exe
+D:\REPO_Git_Candy\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\bin\Release\DBSCAN_GUI.pdb
+D:\REPO_Git_Candy\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\obj\x86\Release\DBSCAN_GUI.AboutBox1.resources
+D:\REPO_Git_Candy\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\obj\x86\Release\DBSCAN_GUI.Form1.resources
+D:\REPO_Git_Candy\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\obj\x86\Release\DBSCAN_GUI.Properties.Resources.resources
+D:\REPO_Git_Candy\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\obj\x86\Release\DBSCAN_GUI.csproj.GenerateResource.Cache
+D:\REPO_Git_Candy\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\obj\x86\Release\DBSCAN_GUI.exe.manifest
+D:\REPO_Git_Candy\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\obj\x86\Release\DBSCAN_GUI.application
+D:\REPO_Git_Candy\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\obj\x86\Release\DBSCAN_GUI.exe
+D:\REPO_Git_Candy\DBSCAN\DBSCAN_GUI_v_2_0_ENG\DBSCAN_GUI\obj\x86\Release\DBSCAN_GUI.pdb
